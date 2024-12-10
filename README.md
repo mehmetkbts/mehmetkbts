@@ -14,7 +14,6 @@ Ben **Mehmet Kabataş**, 20 yaşında bir **Bilgisayar Programcılığı** öğr
 - **Araçlar**: Git, GitHub, VSCode
 
 ## 📫 Bana Ulaşın
-- 💬 LinkedIn Profilim: https://github.com/mehmetkbts
 - 📧 Email: kabatasmehmet134@gmail.com
 
 Benimle iletişime geçmekten çekinmeyin! 😊
