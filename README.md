@@ -11,7 +11,7 @@ Ben **Mehmet Kabataş**, 20 yaşında bir **Bilgisayar Programcılığı** öğr
 ## 💻 Yeteneklerim
 - **Diller**: Python, JavaScript, C++, Java
 - **Web Teknolojileri**: HTML, CSS
-- **Araçlar**: Git, GitHub, VSCode
+- **Araçlar**: Git, GitHub, VSCode, VS2022
 
 ## 📫 Bana Ulaşın
 - 📧 Email: kabatasmehmet134@gmail.com
