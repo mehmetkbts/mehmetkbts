@@ -5,7 +5,7 @@ Ben **Mehmet Kabataş**, 20 yaşında bir **Bilgisayar Programcılığı** öğr
 ## 🚀 Hakkımda
 - 💻 Bilgisayar Programcılığı okuyorum ve öğrendiğim teorileri pratikte uygulayarak gelişiyorum.
 - 🧠 Teknolojiye olan ilgim beni sürekli olarak yeni teknolojiler ve araçlarla tanıştırıyor.
-- 🌱 Şu anda **Python**, **C#,**JavaScript**, **HTML/CSS** gibi dillerle çalışıyorum.
+- 🌱 Şu anda **Python**, **C#**,**JavaScript**, **HTML/CSS** gibi dillerle çalışıyorum.
 - 🔍 Geliştirdiğim projeleri GitHub üzerinde paylaşıyorum ve açık kaynaklı projelere katkı sağlamayı hedefliyorum.
 
 ## 💻 Yeteneklerim
